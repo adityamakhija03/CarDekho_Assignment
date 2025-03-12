@@ -33,7 +33,7 @@ CSV Data Insights is a powerful Gradio-based application that allows users to up
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adityamakhija03/csv-data-insights.git
+   git clone https://github.com/adityamakhija03/CarDekho_Assignment.git
    cd csv-data-insights
    ```
 
