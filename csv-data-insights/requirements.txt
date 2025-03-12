@@ -1,0 +1,16 @@
+# Core dependencies
+gradio
+pandas
+numpy
+
+# LLM and AI integration
+ollama
+pydantic
+pydantic-ai
+
+# Data visualization
+matplotlib
+seaborn
+
+# PDF generation
+reportlab
