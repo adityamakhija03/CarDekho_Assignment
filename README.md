@@ -1,5 +1,3 @@
-# CarDekho_Assignment
- 
 # CSV Data Insights Application
 
 ## Overview
